@@ -132,11 +132,13 @@ streamlit run app.py
 
 ### Home Page
 
-> *(Add a screenshot of your Streamlit application's home page here.)*
+> <img width="1882" height="872" alt="image" src="https://github.com/user-attachments/assets/90cfbd18-06a6-4554-8cfe-f009c979e15a" />
+
 
 ### Prediction Result
 
-> *(Add a screenshot showing the prediction result here.)*
+> <img width="1890" height="726" alt="image" src="https://github.com/user-attachments/assets/8c705140-3983-4926-ac65-21ec8a0d5896" />
+
 
 ---
 
@@ -149,14 +151,6 @@ streamlit run app.py
 - Prediction history
 - Interactive dashboard
 - Cloud deployment improvements
-
----
-
-## 📷 Screenshots
-
-| Home | Prediction |
-|------|------------|
-| Add Screenshot | Add Screenshot |
 
 ---
 
