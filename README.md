@@ -41,16 +41,10 @@ The application allows users to enter transaction details and instantly predicts
 Credit-Card-Fraud-Detection/
 │
 ├── app.py
-├── credit_card_fraud_detection.py
 ├── model.pkl
 ├── scaler.pkl
-├── creditcard.csv
 ├── requirements.txt
 ├── README.md
-└── assets/
-    ├── banner.png
-    ├── app_home.png
-    └── prediction.png
 ```
 
 ---
